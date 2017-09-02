@@ -27,7 +27,7 @@ sudo: false # route your build to the container-based infrastructure for a faste
 deploy:
   provider: pages
   skip_cleanup: true
-  repo: xonixx/xonixx.github.io
+  repo: ICOsurance/icosurance.github.io
   target_branch: master
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
   local_dir: site
