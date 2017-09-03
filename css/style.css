@@ -1102,3 +1102,8 @@
 			display: inline-block;
 			width: 5em;
 		}
+
+
+		.mobile {
+			display: none;
+		}

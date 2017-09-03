@@ -178,3 +178,13 @@
 			padding: 0;
 			border: 0;
 		}
+
+
+
+
+		.mobile {
+			display: block;
+		}
+		.desktop {
+			display: none;
+		}
