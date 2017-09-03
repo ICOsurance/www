@@ -20,5 +20,6 @@ function invest() {
 		// Warn the user that they need to get a web3 browser
 		// Or install MetaMask, maybe with a nice graphic.
 		console.warn("Your browser is not web3-compatible! Install it or get MetaMask plugin.");
+		window.location.href = "https://metamask.io/";
 	}
 }
