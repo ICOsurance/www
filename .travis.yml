@@ -32,7 +32,7 @@ sudo: false # route your build to the container-based infrastructure for a faste
 #    branch: master
 
 before_deploy:
-- openssl aes-256-cbc -K $encrypted_10e2a48999a5_key -iv $encrypted_10e2a48999a5_iv
+- openssl aes-256-cbc -K $encrypted_4c187b3cbfcd_key -iv $encrypted_4c187b3cbfcd_iv
   -in deploy_rsa.enc
   -out /tmp/deploy_rsa -d
 - chmod 600 /tmp/deploy_rsa
