@@ -4,7 +4,7 @@ email: main@icosurance.com
 description: > # this means to ignore newlines until "baseurl:"
   ICOsurance - ultimate protection for your ICO from cybersecurity attacks
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.icosurance.com" # the base hostname & protocol for your site
+url: "https://www.icosurance.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
